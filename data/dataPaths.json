@@ -5,6 +5,27 @@
       "protocol": "pc/0.30c",
       "version": "pc/0.30c"
     },
+    "1.5.2": {
+      "attributes": "pc/1.7",
+      "blocks": "pc/1.7",
+      "blockCollisionShapes": "pc/1.7",
+      "biomes": "pc/1.7",
+      "enchantments": "pc/1.7",
+      "effects": "pc/1.7",
+      "items": "pc/1.7",
+      "recipes": "pc/1.8",
+      "instruments": "pc/1.7",
+      "materials": "pc/1.7",
+      "entities": "pc/1.7",
+      "protocol": "pc/1.5.2",
+      "windows": "pc/1.7",
+      "version": "pc/1.5.2",
+      "language": "pc/1.7",
+      "foods": "pc/1.7",
+      "particles": "pc/1.7",
+      "tints": "pc/1.16.2",
+      "mapIcons": "pc/1.7"
+    },
     "1.7": {
       "attributes": "pc/1.7",
       "blocks": "pc/1.7",
